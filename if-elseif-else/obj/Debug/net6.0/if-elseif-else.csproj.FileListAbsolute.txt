@@ -1,0 +1,15 @@
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.csproj.AssemblyReference.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.AssemblyInfoInputs.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.AssemblyInfo.cs
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.csproj.CoreCompileInputs.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\bin\Debug\net6.0\if-elseif-else.exe
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\bin\Debug\net6.0\if-elseif-else.deps.json
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\bin\Debug\net6.0\if-elseif-else.runtimeconfig.json
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\bin\Debug\net6.0\if-elseif-else.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\bin\Debug\net6.0\if-elseif-else.pdb
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\refint\if-elseif-else.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.pdb
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\if-elseif-else.genruntimeconfig.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\if-elseif-else\obj\Debug\net6.0\ref\if-elseif-else.dll
