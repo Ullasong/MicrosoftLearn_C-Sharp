@@ -1,0 +1,15 @@
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.csproj.AssemblyReference.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.AssemblyInfoInputs.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.AssemblyInfo.cs
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.csproj.CoreCompileInputs.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\bin\Debug\net6.0\MicrosoftLearn_C-Sharp.exe
+C:\GitHub\MicrosoftLearn_C-Sharp\bin\Debug\net6.0\MicrosoftLearn_C-Sharp.deps.json
+C:\GitHub\MicrosoftLearn_C-Sharp\bin\Debug\net6.0\MicrosoftLearn_C-Sharp.runtimeconfig.json
+C:\GitHub\MicrosoftLearn_C-Sharp\bin\Debug\net6.0\MicrosoftLearn_C-Sharp.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\bin\Debug\net6.0\MicrosoftLearn_C-Sharp.pdb
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\refint\MicrosoftLearn_C-Sharp.dll
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.pdb
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\MicrosoftLearn_C-Sharp.genruntimeconfig.cache
+C:\GitHub\MicrosoftLearn_C-Sharp\obj\Debug\net6.0\ref\MicrosoftLearn_C-Sharp.dll
