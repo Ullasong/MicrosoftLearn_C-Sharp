@@ -1,5 +1,0 @@
-C:\GitHub\MicrosoftLearn_C-Sharp\obj\Release\net6.0\MicrosoftLearn_C-Sharp.csproj.AssemblyReference.cache
-C:\GitHub\MicrosoftLearn_C-Sharp\obj\Release\net6.0\MicrosoftLearn_C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\GitHub\MicrosoftLearn_C-Sharp\obj\Release\net6.0\MicrosoftLearn_C-Sharp.AssemblyInfoInputs.cache
-C:\GitHub\MicrosoftLearn_C-Sharp\obj\Release\net6.0\MicrosoftLearn_C-Sharp.AssemblyInfo.cs
-C:\GitHub\MicrosoftLearn_C-Sharp\obj\Release\net6.0\MicrosoftLearn_C-Sharp.csproj.CoreCompileInputs.cache
